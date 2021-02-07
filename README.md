@@ -4,6 +4,8 @@
 
 [Live Example](https://craigpalermo.github.io/docusaurus-local-search/)
 
+![.github/workflows/run-scraper.yml](https://github.com/craigpalermo/docusaurus-local-search/workflows/.github/workflows/run-scraper.yml/badge.svg)
+
 ![](./search-menu.png)
 
 ## What the workflow does
