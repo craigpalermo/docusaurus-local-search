@@ -2,6 +2,10 @@
 
 > Example GitHub Actions workflow to build a Docusaurus site and index it for search using Algolia's [DocSearch crawler](https://docsearch.algolia.com/docs/run-your-own/#run-the-crawl-from-the-docker-image).
 
+[Live Example](https://craigpalermo.github.io/docusaurus-local-search/)
+
+![.github/workflows/run-scraper.yml](https://github.com/craigpalermo/docusaurus-local-search/workflows/.github/workflows/run-scraper.yml/badge.svg)
+
 ![](./search-menu.png)
 
 ## What the workflow does
